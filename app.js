@@ -1,4 +1,8 @@
-const amIFat = null;
-let something;
+function sayHello() {
+    console.log("Hello my name is C");
+}
 
-console.log(something);
+sayHello();
+sayHello();
+sayHello();
+sayHello();
